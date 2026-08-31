@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DVNLAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcefee5e62bc3a6290a9fbc6744218f7a807e4eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e7169421f1804729888565b1966621e57d45901")]
 [assembly: System.Reflection.AssemblyProductAttribute("DVNLAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DVNLAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
